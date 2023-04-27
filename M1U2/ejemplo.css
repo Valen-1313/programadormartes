@@ -1,0 +1,74 @@
+h1{
+color: blue;
+font-family:'Times New Roman', Times, serif;
+background-color: blueviolet;
+text-align: center;
+
+
+}
+
+h2{
+color: darkolivegreen;
+font-style: initial;
+background-color: beige;
+border: 8cap;
+
+
+}
+
+p{
+color: red;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.destacados{
+font-size: medium;
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 0cap;
+
+}
+
+.titulo{
+position: static;
+background-color: rgb(44, 44, 152);
+width: max-content;
+height: 58px;
+top: 40px;
+left: 50px auto;
+margin: 50px auto;
+color: darkseagreen;
+
+}
+
+h4{
+position: relative;
+background-color: bisque;
+color: black;
+border: 8cap;
+}
+
+.localidad{
+position: relative;
+color: gold;
+background-color: darkgrey;
+width: fit-content;
+text-align: initial;
+margin: auto;
+}
+
+
+.edad{
+color: aqua;
+background-color: black;
+position: relative;
+width: max-content;
+top: auto;
+}
+
+
+
+
+
+
