@@ -1,6 +1,8 @@
 /*
 font-family: 'Alfa Slab One', cursive;
+font-family: 'Caprasimo', cursive;
 font-family: 'Open Sans', sans-serif;
+font-family: 'Abril Fatface', cursive;
 */
 
 footer {
@@ -14,13 +16,17 @@ a{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-h1,
+h1{
+  font-family:'Caprasimo', cursive;
+}
+
+
 h2 {
-  font-family:'Alfa Salb One', cursive;
+  font-family:'Abril Fatface', cursive;
 }
 
 .hero {
-  background: url(../img/pizzeriafondo1.jpg.crdownload) no-repeat;
+  background: url(../img/1889-fast-fine-pizza-0-1-1024x683.jpg) no-repeat;
   background-size: cover;
   height: 0.5vh;
   min-height: 600px;
@@ -65,5 +71,26 @@ h2 {
   margin-right: 1.4rem;
   opacity: 1;
 }
+
+.staff{
+  background-color: #efefef;
+}
+
+.mapa iframe{
+  width: 100%;
+  aspect-ratio: 1.2;
+}
+
+.html{
+  scroll-behavior: smooth;
+}
+
+.scroll_section{
+  scroll-margin-top: 60px;
+}
+
+
+
+
 
 
